@@ -11,11 +11,11 @@
 # # For OCR
 # import numpy as np
 # import pandas as pd
-import pytesseract
+# import pytesseract
 
 # # For Language Detection
 # import re
-# import langdetect
+import langdetect
 
 # # For Spacy NLP
 # import spacy
