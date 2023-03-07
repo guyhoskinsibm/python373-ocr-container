@@ -7,7 +7,7 @@ WORKDIR /usr/app
 RUN python -m venv /usr/app/venv
 ENV PATH="/usr/app/venv/bin:$PATH"
 
-RUN pip install pip
+RUN pip install --upgrade pip
 COPY requirements.txt .
 RUN pip install -r requirements.txt
 
