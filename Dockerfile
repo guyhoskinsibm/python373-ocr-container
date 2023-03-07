@@ -4,7 +4,7 @@ RUN apk upgrade
 RUN apk add tesseract-ocr 
 
 RUN addgroup -g 1001 python && \
-    adduser -r -u 1001 -g python python
+    adduser -S -u 1001 -g python python
 USER 999
 
 WORKDIR /usr/app
