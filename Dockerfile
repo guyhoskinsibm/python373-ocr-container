@@ -9,7 +9,7 @@ ENV PATH="/usr/app/venv/bin:$PATH"
 
 RUN pip install pip
 COPY requirements.txt .
-RUN pip install --upgrade -r requirements.txt
+RUN pip install -r requirements.txt
 
 RUN addgroup -g 1001 python && \
     adduser -S -u 1001 -g python python
