@@ -1,0 +1,11 @@
+pillow
+python-dev-tools
+opencv-python-headless
+setuptools 
+wheel
+spacy
+ipkernel
+top2vec
+pytesseract
+langdetect
+fuzzy-c-means
