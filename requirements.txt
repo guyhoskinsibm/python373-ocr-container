@@ -1,6 +1,6 @@
 pillow
 python-dev-tools
-opencv-python-headless
+#opencv-python-headless
 setuptools 
 wheel
 spacy
