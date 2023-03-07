@@ -1,4 +1,4 @@
-pillow
+#pillow
 #python-dev-tools
 #opencv-python-headless
 #setuptools 
@@ -7,5 +7,5 @@ pillow
 #ipkernel
 #top2vec
 #pytesseract
-#langdetect
+langdetect
 #fuzzy-c-means
