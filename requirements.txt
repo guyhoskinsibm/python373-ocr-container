@@ -6,6 +6,6 @@
 #spacy
 #ipkernel
 #top2vec
-pytesseract
-#langdetect
+#pytesseract
+langdetect
 #fuzzy-c-means
