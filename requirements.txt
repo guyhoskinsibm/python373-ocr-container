@@ -1,8 +1,8 @@
 pillow
-python-dev-tools
+#python-dev-tools
 #opencv-python-headless
-setuptools 
-wheel
+#setuptools 
+#wheel
 #spacy
 #ipkernel
 #top2vec
